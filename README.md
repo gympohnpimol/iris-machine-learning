@@ -15,7 +15,7 @@ The Iris flower data set is a multivariate data set introduced by the British st
 It contains a set of 150 records under five attributes: petal length, petal width, sepal length, sepal width and species. 
 The goal is to create a machine learning model with thid dataset to learn from the measurements of these irises, so that we can predict the species for the new irises that has been found.
 ## Technology
-Project is created with Python version: 3.6.0
+Project is created with Python version: 3.6.0 :snake:
 ## Getting started
 To run this project, install library:
 ``` 
