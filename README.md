@@ -1,4 +1,8 @@
-# iris-machine-learning
+# iris-machine-learning   
+<img src="https://user-images.githubusercontent.com/56881546/77530645-063d6e00-6ed5-11ea-87a0-29e4b07e00dd.png" alt="drawing" width="200" height="200" align="right"/>
+
+
+
 Start to learn Machine Learning with the Iris flower classification using Python with model of 
 * Support Vector Machine Algorithm
 * Logistic Regression
