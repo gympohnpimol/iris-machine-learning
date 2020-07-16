@@ -40,5 +40,3 @@ print("The accuracy of SVM: ", metrics.accuracy_score(prediction, test_y))
 * [Open Machine Learning Course](https://github.com/Yorko/mlcourse.ai)
 * [Basic ML-Study from BorntoDev](http://www.youtube.com/watch?v=https://youtube.com/watch?v=lA5MHygnFcg) (Thai-only)
 
-## License
-[MIT](https://tldrlegal.com/license/mit-license)
